@@ -1,0 +1,23 @@
+.main {
+    background-color: rgb(181, 63, 181);
+    border: 1px solid rgb(18, 18, 19);
+    border-radius: 5px;
+    width: 500px;
+    margin: 20px auto;
+
+    button {
+        background-color: rgb(33, 43, 121);
+        color: white;
+        border-radius: 5px;
+        padding: 5px;
+        border: none;
+        margin-right: 2px;
+        &:hover{
+            background-color: rgb(19, 31, 120);
+        }
+        &:active{
+            background-color: rgb(3, 13, 86);
+        }
+    }
+
+}

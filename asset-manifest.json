@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Redev.react-tasks/static/css/main.6f687905.css",
+    "main.js": "/Redev.react-tasks/static/js/main.9b337e0e.js",
+    "index.html": "/Redev.react-tasks/index.html",
+    "main.6f687905.css.map": "/Redev.react-tasks/static/css/main.6f687905.css.map",
+    "main.9b337e0e.js.map": "/Redev.react-tasks/static/js/main.9b337e0e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f687905.css",
+    "static/js/main.9b337e0e.js"
+  ]
+}
